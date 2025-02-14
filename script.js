@@ -1,4 +1,4 @@
-const words = ['antartica', 'ingenious', 'abjure', 'nauseous', 'accommodate', 'dyslexia', 'adamant', 'naffle'];
+const words = ['antartica', 'ingenious', 'abjure', 'nauseous', 'accommodate', 'dyslexia', 'adamant', 'baffle'];
 let currentWord, scrambledWord;
 
 function selectRandomWord() {
